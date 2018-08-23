@@ -50,7 +50,7 @@ career-profile:
 education:
  
     - degree: Red Hat Linux Certification, RHCE #805008409531901
-      RedHat CE Program
+      institution: RedHat CE Program
       time: 2009
 
     - degree: MSc in Computer Science
