@@ -95,10 +95,8 @@ relevant experiences:
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-
+      Significant projects and open source libraries.
+      
     assignments:
       - title: Eshiai
         link: https://github.com/omarmarquez/eshiai
@@ -117,23 +115,21 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: Python, Flask & Django
         level: 98%
 
       - name: Javascript & jQuery
-        level: 98%
+        level: 95%
 
-      - name: Angular
+      - name: ElasticSearch and systems monitoring
         level: 98%
 
       - name: HTML5 & CSS
         level: 95%
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: Mysql/MariaDb
+        level: 95%
 
-      - name: Sketch & Photoshop
-        level: 60%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
