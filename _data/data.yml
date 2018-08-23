@@ -40,84 +40,57 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
+      Over 15 years of mission critical systems administration and support in Financial, 
+      Telecommunications and Digital Content Provider industries, RedHat Certified Linux Engineer
+      Roles: UNIX Admin, Software Developer, Application Support, Systems Operations/Support, Trading Engineer and more
+      Tech.: Linux, Docker, Kafka, Elastic Stack, Icinga, Prometheus, Grafana, Python, Django, Flask, GoCd, TeamCity, MySql
 
-      Second paragraph if required.
+
 
 education:
-    - degree: MSc in Computer Science
-      university: Havana University
-      time: 1996 - 1997
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
+ 
+    - degree: Red Hat Linux Certification, RHCE #805008409531901,
+      RedHat CE Program
+      time: 2009
 
-          - Bullet point
-          - Bullet point 
+    - degree: MSc in Computer Science
+      university: Havana University, CUBA
+      time: 1996 - 1997
 
     - degree: BSc in Computer Science
-      university: Santa Clara University
+      university: Santa Clara University, CUBA
       time: 1989 - 1994
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
 
-          - Bullet point
-          - Bullet point 
 
-experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-
-          - Bullet point
-          - Bullet point 
+relevant experiences:
 
     - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+      time: 2010 - 2018
+      company: IMC, Financial Markets
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        Senior software engineer in a top of the line high performance trading company.
 
-          - Bullet point
-          - Bullet point
+          - ElasticSearch introduction
+          - Hosts Monitoring
+          - Containerization
 
-    - role: UI Developer
+    - role: Lead Developer
+      time: 2015 - Present
+      company: Tohkon Judo Academy
+      details: |
+        Design and implementation of competition management and athlete perfomance tracking system.
+
+          - Used in production seeting since 2015
+          - 
+          
+    - role: UI Developer/DBA
       time: 2012 - 2014
-      company: Amazon, London
+      company: DataConstructs, MI
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        Web application development for Hospitality, Real State, Costruction and Cosmetics industry.
 
-          - Bullet point
-          - Bullet point
+          - PHP/Cold Fusion/ASP
+          - Database setup and management
 
 projects:
     title: Projects
@@ -127,45 +100,18 @@ projects:
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
 
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: Eshiai
+        link: https://github.com/omarmarquez/eshiai
+        tagline: "A judo competition management system."
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: Kata_Score
+        link: https://github.com/omarmarquez/kata_score
+        tagline: "A judo kata scoring and learning system."
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: Alpine-PdfTk
+        link: https://github.com/omarmarquez/alpine-pdftk
+        tagline: "A port of the pdf toolkit into alpine linux."
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-
-    papers:
-      - title: The Art of Computer Programming
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Skills &amp; Proficiency
