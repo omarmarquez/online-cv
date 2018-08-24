@@ -31,25 +31,25 @@ sidebar:
         level: Native
         
     interests:
-      - item: Judo
+      - item: Judo 3rd Degree Blackbelt
         link:
 
-      - item: ElasticSearch
+      - item: Solving complex data problems with ElasticSearch
         link:
 
 career-profile:
     title: Career Profile
     summary: |
       Over 15 years of mission critical systems administration and support in Financial, 
-      Telecommunications and Digital Content Provider industries, RedHat Certified Linux Engineer
-      Roles: UNIX Admin, Software Developer, Application Support, Systems Operations/Support, Trading Engineer and more
-      Tech.: Linux, Docker, Kafka, Elastic Stack, Icinga, Prometheus, Grafana, Python, Django, Flask, GoCd, TeamCity, MySql
+      Telecommunications and Digital Content Provider industries. RedHat Certified Linux Engineer
+      Served in most corporate systems roles: UNIX Admin, Software Developer, Application Support, Systems Operations/Support, Trading Engineer and more
+      Deep experience in most modern tech: Linux, Docker, Kafka, Elastic Stack, Icinga, Prometheus, Grafana, Python, Django, Flask, GoCd, TeamCity, MySql and more
 
 
 
 education:
  
-    - degree: Red Hat Linux Certification, RHCE #805008409531901
+    - degree: Red Hat Linux Certification, RHCE 805008409531901
       institution: RedHat CE Program
       time: 2009
 
@@ -70,9 +70,9 @@ experiences:
       details: |
         Senior software engineer in a top of the line high performance trading company.
 
-          - ElasticSearch introduction
-          - Hosts Monitoring
-          - Containerization
+          - Introduced ElasticSearch technology to the corporatation
+          - Implemented a Hosts Monitoring architecture
+          - Conceived, designed and implemented a full containerization solution
 
     - role: Lead Developer
       time: 2015 - Present
