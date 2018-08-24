@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Omar Marquez
-    tagline: Full Stack Developer
+    tagline: Senior Level Full Stack Developer
     avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -31,19 +31,20 @@ sidebar:
         level: Native
         
     interests:
-      - item: Judo 3rd Degree Blackbelt
+      - item: Solving complex data problems with cutting edge information technology
         link:
 
-      - item: Solving complex data problems with ElasticSearch
+      - item: Judo 3rd Degree Blackbelt
         link:
 
 career-profile:
     title: Career Profile
     summary: |
       Over 15 years of mission critical systems administration and support in Financial, 
-      Telecommunications and Digital Content Provider industries. RedHat Certified Linux Engineer
-      Served in most corporate systems roles: UNIX Admin, Software Developer, Application Support, Systems Operations/Support, Trading Engineer and more
-      Deep experience in most modern tech: Linux, Docker, Kafka, Elastic Stack, Icinga, Prometheus, Grafana, Python, Django, Flask, GoCd, TeamCity, MySql and more
+      Telecommunications and Digital Content Provider industries. 
+      RedHat Certified Linux Engineer
+      Served in most corporate IT systems roles: UNIX Admin, Software Developer, Application Support, Systems Operations/Support, Trading Engineer and more
+      Deep experience with Linux, Docker, Kafka, Elastic Stack, Icinga, Prometheus, Grafana, Python, Django, Flask, GoCd, TeamCity, MySql and more
 
 
 
@@ -80,9 +81,16 @@ experiences:
       details: |
         Design and implementation of competition management and athlete perfomance tracking system.
 
-          - Used in production seeting since 2015
-          - Improved running time by near 20%
+          - Used in production setting since 2015
+          - Improved running time by +20%
           
+    - role: UI Developer/DBA
+      time: Ongoing
+      company: Zises Strategic Communications, Inc. (http://zis.es)
+      details: |
+        Design and implementation of proprietary data mining project for targeting voters in political campaigns
+          - Comprehensive ELK stack
+
     - role: UI Developer/DBA
       time: 2012 - 2014
       company: DataConstructs, MI
@@ -95,20 +103,20 @@ experiences:
 projects:
     title: Projects
     intro: >
-      Significant projects and open source libraries.
+      Significant projects and open source libraries available if requested.
       
-    assignments:
-      - title: Eshiai
-        link: https://github.com/omarmarquez/eshiai
-        tagline: "A judo competition management system."
+#    assignments:
+#      - title: Eshiai
+#        link: https://github.com/omarmarquez/eshiai
+#        tagline: "A judo competition management system."
 
-      - title: Kata_Score
-        link: https://github.com/omarmarquez/kata_score
-        tagline: "A judo kata scoring and learning system."
+#      - title: Kata_Score
+#        link: https://github.com/omarmarquez/kata_score
+#        tagline: "A judo kata scoring and learning system."
 
-      - title: Alpine-PdfTk
-        link: https://github.com/omarmarquez/alpine-pdftk
-        tagline: "A port of the pdf toolkit into alpine linux."
+#      - title: Alpine-PdfTk
+#        link: https://github.com/omarmarquez/alpine-pdftk
+#        tagline: "A port of the pdf toolkit into alpine linux."
 
 
 skills:
@@ -132,4 +140,4 @@ skills:
 
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+#    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
